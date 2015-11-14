@@ -16,6 +16,9 @@ DOI 10.1617/s11527-014-0485-2
 #### Description
 * Python: 3.5
 * All input variables included in section *DATA*
+* Two models implemented (separate files):  
+  * Model B4 (general)   
+  * Model B4s (Strength-based model for simplified design)
 
 
 
